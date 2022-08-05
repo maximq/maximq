@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+there+I+am+maximq;You can contact me in VK: vk.com/maximq)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+there+I+am+maximq;You+can+contact+me+in+VK%3A+vk.com%2Fmaximq)](https://git.io/typing-svg)
 - 🔭 I’m currently working on aiogram bot.
 - 🌱 I’m currently learning Python, SQL.
 
