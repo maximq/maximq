@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+there+I+am+maximq;VK%3A+vk.com%2Fmaximq)](https://git.io/typing-svg)
-- 🔭 I’m currently working on aiogram bot.
-- 🎓 I’m currently learning Python, SQL.
+- 🏢 I’m currently working at Farmaimpex-IT as a leading system engineer.
+- 🎓 I’m currently studying at Udmurt State University.
+- 📫 Сontact with me https://t.me/maximq0
 
 <!--
 **maximq/maximq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
