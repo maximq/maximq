@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+there+I+am+maximq;VK%3A+vk.com%2Fmaximq)](https://git.io/typing-svg)
 - 🏢 I’m currently working at Farmaimpex-IT as a leading system engineer.
-- 🎓 I’m currently studying at Udmurt State University.
+- 🎓 I’m currently studying at Udmurt State University, Tinkoff QA Course.
 - 📫 Сontact with me https://t.me/maximq0
 
 <!--
