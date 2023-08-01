@@ -3,7 +3,7 @@
 - 🔭 Тестирую десктоп, web
 - ⚙️ Мой стек: C++, QT, Git, Postman, Charles, Fiddler, Swagger, Баг-трекинг, GitLab, Bash
 
-📊 My metrics:
+📊 Метрика:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximq&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=maximq&show_icons=true&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
