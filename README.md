@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=VK%3A+vk.com%2Fmaximq;WakaTime%3A+wakatime.com%2F%40maximq;TG%3A+t.me%2Fmaximq0)](https://git.io/typing-svg)
-- 🏢 Работаю специалистом по тестированию в Фармаимпекс-ИТ
-- 🔭 Тестирую десктоп, web
-- ⚙️ Мой стек: C++, QT, Git, Postman, Charles, Fiddler, Swagger, Баг-трекинг, GitLab, Bash
+- 🏢 Работаю старшим инженером по тестированию в ![psb-logo](https://github.com/maximq/maximq/assets/43162306/ea0f7d18-7e33-4e11-bde5-daa76fc2d921)ПСБ
+- 🔭 Тестирую десктоп, web. В работе 3 проекта.
+- ⚙️ Мой стек: Python, JS (React), Git, Postman, Charles/Fiddler, Bash
 
 📊 Метрика:
 
